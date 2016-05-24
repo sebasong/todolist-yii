@@ -10,7 +10,7 @@
             "email": "bilal@bilalbaraz.com"
         }
     ],
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2": "*"
 	},
