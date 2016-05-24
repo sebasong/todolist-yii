@@ -1,0 +1,22 @@
+{
+    "name": "bilalbaraz/todolist-yii",
+    "description": "The To Do List Manager module for Yii framework.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "todolist"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Town of Salem",
+            "email": "bilal@bilalbaraz.com"
+        }
+    ],
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "bilalbaraz\\todolist-yii\\": ""
+        }
+    }
+}
