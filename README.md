@@ -9,3 +9,7 @@ backend/config/main-local.php
 'todolist' => [
     'class' => 'backend\modules\todolist\Todolist',
 ],
+
+# migrate
+
+php yii migrate/up --migrationPath=@yii/todolist/migrations
